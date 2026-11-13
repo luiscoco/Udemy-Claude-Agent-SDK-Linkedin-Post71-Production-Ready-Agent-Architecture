@@ -1,0 +1,16 @@
+{
+  "lesson": 70,
+  "title": "Production-Ready Agent Architecture",
+  "application": "Operational Readiness Harness",
+  "purpose": "Wrap a bounded run with validated configuration, explicit readiness evidence and a local operations summary.",
+  "exercise": "Set rollback_plan to True and add a new required check. Readiness must be derived from the complete check set.",
+  "source_topics": [
+    "00-Arquitectura de agentes lista para producción.png",
+    "01-From-Prototype-to-Production.png",
+    "02-Production-Architecture-Layers.png",
+    "03-Configure-Guardrails-in-Options.png",
+    "04-Wrap-Every-Run-for-Operations.png",
+    "05-Ship-Safely-Checklist.png",
+    "06-Operate-and-Improve-Continuously.png"
+  ]
+}

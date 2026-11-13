@@ -1,0 +1,20 @@
+{
+  "lesson": 70,
+  "application": "Operational Readiness Harness",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "ready": false,
+    "missing_checks": [
+      "rollback_plan"
+    ],
+    "assessment": "The rollback plan is missing; this prototype is not ready for production release.",
+    "configured_limits": {
+      "max_turns": 8,
+      "timeout_seconds": 90,
+      "budget_usd": 1.0
+    },
+    "deployed": false
+  },
+  "measured_cost_usd": null
+}

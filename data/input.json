@@ -1,0 +1,9 @@
+{
+  "request": "Explain safe agent release practices",
+  "checks": {
+    "input_validation": true,
+    "error_handling": true,
+    "evaluation": true,
+    "rollback_plan": false
+  }
+}
